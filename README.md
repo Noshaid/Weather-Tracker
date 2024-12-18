@@ -24,3 +24,5 @@ Clone the repository:
 
 - WeatherTracker/: Main app source code.
 - WeatherTrackerTests/: Unit testing code.
+
+![Simulator Screenshot - iPhone 16 Pro Max - 2024-12-18 at 00 33 49](https://github.com/user-attachments/assets/6550ff91-894e-4f4e-bdc3-0c2019d2ba48)
