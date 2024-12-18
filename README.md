@@ -17,7 +17,7 @@ This app allow users to search for a city, display its weather on the home scree
 
 Clone the repository:
    ```bash
-   git clone https://github.com/Noshaid/Weather-Tracker.git
+   git clone https://github.com/Noshaid/WeatherTracker.git
    ```
 
 ## Project Structure
